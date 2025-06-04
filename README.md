@@ -12,7 +12,8 @@ Welcome! This document will guide you through connecting your GitHub repository 
 
 ## 1. Fork this Repository
 
-Fork this repo to your GitHub account. This will serve as the source of truth for your Markdown posts.
+Fork this repo to your GitHub account. This will serve as the source of truth for your Markdown posts. 
+Your repository needs to be public - otherwise an md file won't be accessible.
 
 ---
 
