@@ -1,0 +1,1 @@
+All markdown (md) files which are the content of this folder is published to pushblog.io on every push event. 
